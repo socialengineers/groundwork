@@ -1,10 +1,10 @@
 # Set this to the root of your project
 http_path = "/"
-css_dir = "css"
+css_dir = "../public/css"
 sass_dir = "src/sass"
-images_dir = "images"
-javascripts_dir = "js"
-fonts_dir = "fonts"
+images_dir = "../public/images"
+javascripts_dir = "../public/scripts"
+fonts_dir = "../public/fonts"
 
 output_style = :expanded
 environment = :development
